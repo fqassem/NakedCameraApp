@@ -11,4 +11,4 @@ or
 
 "orientation": "portrait"
 
-Build the app as you would any normal Expo/React-Native app
+Build the app as you would any normal Expo/React-Native app. Set 'Do not disturb' on if you don't want to any notifications to show up while recording.
